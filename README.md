@@ -1,7 +1,7 @@
 # LeetCode Solutions
 Welcome to my repository of LeetCode solutions! Here, I post my solutions to various problems that I solve on LeetCode.
 
-# Problem Statement
+# Contents
 Each file contains the code solution for the problem in the C++ language.
 
 # Problem Difficulty
