@@ -1,5 +1,8 @@
 # LeetCode Solutions
 Welcome to my repository of LeetCode solutions! Here, I post my solutions to various problems that I solve on LeetCode.
+My Leetcode Profile - https://leetcode.com/tidkepv/ 
+My LinkedIn Profile - https://www.linkedin.com/in/prathamesh-tidke-394608204
+Check out my profiles to know more about me.
 
 # Contents
 Each file contains the code solution for the problem in the C++ language.
